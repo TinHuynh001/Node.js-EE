@@ -1,2 +1,2 @@
 # Node.js-EE
-Various Node.js codings.
+Node.js codings.
